@@ -20,8 +20,8 @@
 
 ### follow me
 
-![Telegram](https://img.shields.io/badge/telegram-adadad?style=for-the-badge&logo=namemc)
-![namemc](https://img.shields.io/badge/telegram-3361ff?style=for-the-badge&logo=telegram)
+![Telegram](https://img.shields.io/badge/telegram-adadad?style=for-the-badge&logo=telegram)
+![namemc](https://img.shields.io/badge/namemc-0060cb?style=for-the-badge&logo=namemc)
 ![Discord](https://img.shields.io/badge/discord-630cb9?style=for-the-badge&logo=Discord)
 ![YouTube](https://img.shields.io/badge/youtube-df0000?style=for-the-badge&logo=youtube)
 
