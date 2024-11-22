@@ -22,7 +22,7 @@
 
 ![Telegram](https://img.shields.io/badge/telegram-0255b2?style=for-the-badge&logo=telegram)
 ![namemc](https://img.shields.io/badge/namemc-305229?style=for-the-badge&logo=namemc)
-![Discord](https://img.shields.io/badge/discord-630cb9?style=for-the-badge&logo=Discord)
+![Discord](https://img.shields.io/badge/discord-290880?style=for-the-badge&logo=Discord)
 ![YouTube](https://img.shields.io/badge/youtube-df0000?style=for-the-badge&logo=youtube)
 
 ### stats
