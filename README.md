@@ -7,7 +7,7 @@
 [![skin](https://s.namemc.com/3d/skin/body.png?id=7df6b5ddb821fe23&model=classic&theta=32&phi=22&time=1146.86&width=300&height=500)](www.google.com)
 
 
-### coha clan and masons 3b3t member
+### member of coha clan and masons 3b3t
 
 ### languages and tools
 
@@ -27,5 +27,4 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=flyinglexmi&theme=dark)
 
-</div>
-___
+</div
