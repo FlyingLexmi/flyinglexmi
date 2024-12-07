@@ -16,7 +16,7 @@
 ![html](https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css3)
 ![sql](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)
-![cpp](https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cpp)
+![cpp](https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=c)
 
 
 ### follow me
