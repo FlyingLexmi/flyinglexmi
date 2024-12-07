@@ -19,13 +19,6 @@
 ![cpp](https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=c)
 
 
-### follow me
-
-![Telegram](https://img.shields.io/badge/telegram-0255b2?style=for-the-badge&logo=telegram)
-![namemc](https://img.shields.io/badge/namemc-305229?style=for-the-badge&logo=namemc)
-![Discord](https://img.shields.io/badge/discord-290880?style=for-the-badge&logo=Discord)
-![YouTube](https://img.shields.io/badge/youtube-df0000?style=for-the-badge&logo=youtube)
-
 ### stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyinglexmi&show_icons=true&theme=tokyonight)
