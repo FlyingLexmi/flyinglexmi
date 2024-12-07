@@ -31,5 +31,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyinglexmi&layout=compact&theme=tokyonight)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=flyinglexmi&theme=dark)
+
 </div>
 ___
